@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm CoKayne</h1>
-<h3 align="center">A high school student from Taiwan, interested in programming and music producing.</h3>
+<h3 align="center">A college student from Taiwan, interested in programming and other stuff.</h3>
 
-- 🔭 I’m currently working on [Music_alarm](https://github.com/CoKayne/Music_alarm)
+- 🔭 I’m currently working on [Cokayne](https://github.com/CoKayne/CoKayne)
 
-- 🌱 I’m currently learning **Frontend/Backend development and Unity framework for C#.**
+- 🌱 I’m currently learning **how to learn**.
 
 - 📄 Know about my experiences [https://cokayne.github.io/Webpagething/](https://cokayne.github.io/Webpagething/)
 
