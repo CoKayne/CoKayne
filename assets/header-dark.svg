@@ -1,40 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200" role="img" aria-labelledby="t d">
-  <title id="t">Kayne Duan 段宇謙</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="132" viewBox="0 0 500 132" role="img" aria-labelledby="t d">
+  <title id="t">Kayne Duan</title>
   <desc id="d">Researching how AI can model what people think and need, and building products that put it to work.</desc>
   <style>
-    :root { --ink:#f0f6fc; --muted:#9198a1; --accent:#f0885a; --accent-soft:#f0885a; }
-    .name   { font: 600 46px Georgia, "Times New Roman", serif; fill: var(--ink); letter-spacing: -0.5px; }
-    .cjk    { font: 400 24px "PingFang TC", "Noto Sans TC", "Microsoft JhengHei", sans-serif; fill: var(--muted); }
-    .line   { font: 400 18px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: var(--ink); }
-    .label  { font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: var(--muted); }
-    .ring   { fill: none; stroke: var(--ink); stroke-width: 1.25; opacity: .55; }
-    .lens   { fill: var(--accent-soft); opacity: .14; animation: breathe 6s ease-in-out infinite; }
-    .dot    { fill: var(--accent); }
-    .orbit-a { animation: spin 18s linear infinite; transform-origin: 668px 100px; }
-    .orbit-b { animation: spin 24s linear infinite reverse; transform-origin: 752px 100px; }
-    @keyframes spin    { to { transform: rotate(360deg); } }
-    @keyframes breathe { 0%,100% { opacity: .10; } 50% { opacity: .26; } }
-    @media (prefers-reduced-motion: reduce) {
-      .orbit-a, .orbit-b, .lens { animation: none; }
-    }
+    :root { --ink:#f0f6fc; }
+    .name { font: 600 46px Georgia, "Times New Roman", serif; fill: var(--ink); letter-spacing: -0.5px; }
+    .line { font: 400 18px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: var(--ink); }
   </style>
-
-  <!-- text block, vertically centred on the motif (cy = 100) -->
-  <text class="name" x="0" y="82">Kayne Duan<tspan class="cjk" dx="16">段宇謙</tspan></text>
-  <text class="line" x="0" y="122">Researching how AI can model what people think and need,</text>
-  <text class="line" x="0" y="148">and building products that put it to work.</text>
-
-  <!-- motif: two minds, one shared region (theory of mind / human–AI interaction) -->
-  <g>
-    <defs>
-      <clipPath id="clipA"><circle cx="668" cy="100" r="72"/></clipPath>
-    </defs>
-    <circle class="lens" cx="752" cy="100" r="72" clip-path="url(#clipA)"/>
-    <circle class="ring" cx="668" cy="100" r="72"/>
-    <circle class="ring" cx="752" cy="100" r="72"/>
-    <g class="orbit-a"><circle class="dot" cx="668" cy="28" r="4"/></g>
-    <g class="orbit-b"><circle class="dot" cx="752" cy="172" r="4"/></g>
-    <text class="label" x="630" y="104" text-anchor="middle">human</text>
-    <text class="label" x="790" y="104" text-anchor="middle">model</text>
-  </g>
+  <text class="name" x="0" y="50">Kayne Duan</text>
+  <text class="line" x="0" y="90">Researching how AI can model what people think and need,</text>
+  <text class="line" x="0" y="116">and building products that put it to work.</text>
 </svg>
