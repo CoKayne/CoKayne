@@ -10,7 +10,7 @@
   <a href="mailto:duankayne@gmail.com">duankayne@gmail.com</a>
 </p>
 
-I'm a senior in Computer Science at National Taiwan University. I work where machine learning meets human–computer interaction: can an AI system infer what a person believes, wants, or means, and turn that into an interface that is safe, explainable, and keeps improving from feedback? I test those ideas in research and in products that real people use.
+I'm an undergraduate in Computer Science at National Taiwan University. I work where machine learning meets human–computer interaction: can an AI system infer what a person believes, wants, or means, and turn that into an interface that is safe, explainable, and keeps improving from feedback? I test those ideas in research and in products that real people use.
 
 ### Now
 
