@@ -18,7 +18,7 @@ I'm a senior in Computer Science at National Taiwan University. I work where mac
 
 ### Research
 
-**Avalon-ToM-Bench: Evaluating Fine-Grained Theory of Mind via Asymmetric Game Mechanics** · MiuLab, NTU · [paper](https://arxiv.org/abs/2608.09638) · [testbench](https://github.com/CoKayne/game-tom-benchmark)
+**Avalon-ToM-Bench: Evaluating Fine-Grained Theory of Mind via Asymmetric Game Mechanics** · MiuLab, NTU · [paper](https://arxiv.org/abs/2608.09638)
 
 A 2×2 taxonomy of Theory of Mind built from 408 perspective-constrained items, used to benchmark 28 LLMs. Linear probes recover the right answer from hidden states (77–82%) more often than the models say it (62–70%). Reasoning training adds +11.0 points, while test-time chain-of-thought adds +1.1.
 
